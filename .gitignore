@@ -1,0 +1,7 @@
+# C/C++ Object Files
+*.o
+*.out
+
+# Python Compiled Files
+*.pyc
+env/
